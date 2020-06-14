@@ -1,6 +1,6 @@
 {
-  "name": "wxappUnpacker",
-  "version": "1.0.0",
+  "name": "wxapp-unpacker",
+  "version": "1.0.3",
   "description": "微信小程序反解包工具",
   "main": "index.js",
   "scripts": {
