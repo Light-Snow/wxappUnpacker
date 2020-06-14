@@ -1,13 +1,13 @@
 {
-  "name": "pkg",
+  "name": "wxappUnpacker",
   "version": "1.0.0",
-  "description": "",
+  "description": "微信小程序反解包工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "snow",
   "license": "ISC",
   "dependencies": {
     "css-tree": "^1.0.0-alpha.39",
